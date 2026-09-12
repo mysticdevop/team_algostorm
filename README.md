@@ -1,8 +1,3 @@
-A crisp, hackathon-ready `README.md` explains the problem, mathematical formulation, architecture, and reproduction steps for judges.
-
-Create `README.md` in your root folder (`D:\microgridsys\README.md`) with this content:
-
-```markdown
 # OptiGrid — Autonomous Microgrid Energy Dispatch Optimizer
 
 > **Theme:** Renewable Energy Intelligence  
